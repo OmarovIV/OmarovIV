@@ -37,5 +37,6 @@ Bachelor’s Degree in Environmental Science, Moscow State Institute of Internat
 Software Testing Introduction, EPAM Systems
 
 📫 **How to reach me**:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor%20Omarov-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/igor-omarov/)
 [![Gmail](https://img.shields.io/badge/Gmail-xyarriddi@gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:xyarriddi@gmail.com)
