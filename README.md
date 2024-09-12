@@ -16,6 +16,7 @@ Marketing Experience: Previous background in Marketing, with knowledge of tools 
 Technical Tools: Proficient in Jira, Confluence (including Jira Automation), SQL, and relational databases.
 
 🌍 **Where I've Worked**:
+
 QA Engineer at Priva (2024 - Present)
 Hybrid, Netherlands
 
@@ -27,10 +28,12 @@ Remote
 
 
 📚 **Education**:
+
 Master’s Degree in Business Administration, Moscow State Institute of International Relations (MGIMO), 2018 - 2020
 Bachelor’s Degree in Environmental Science, Moscow State Institute of International Relations (MGIMO), 2014 - 2018
 
 🎓 **Certifications**:
+
 Software Testing Introduction, EPAM Systems
 
 📫 **How to reach me**:
