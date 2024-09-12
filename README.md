@@ -16,7 +16,6 @@ Marketing Experience: Previous background in Marketing, with knowledge of tools 
 Technical Tools: Proficient in Jira, Confluence (including Jira Automation), SQL, and relational databases.
 
 🌍 **Where I've Worked**:
-
 QA Engineer at Priva (2024 - Present)
 Hybrid, Netherlands
 
