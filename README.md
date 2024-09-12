@@ -1,7 +1,9 @@
-👋 Hi, I'm Igor Omarov – Senior QA Engineer
+👋 
+Hi, I'm Igor Omarov – Senior QA Engineer
 I'm a passionate QA engineer with a strong interest in product development, currently based in the Netherlands. With over three years of experience in QA, I've been involved in various key projects, setting up QA processes from scratch, and working on automation, testing, and project management.
 
 🛠 **Key Competencies**:
+
 Test Automation: Proficient in tools such as Jest, Mocha, Playwright, Python Selenium, and Supertest.
 API Testing: Expertise in API testing using Postman and Supertest.
 Documentation Mastery: Skilled in creating detailed test documentation, including checklists, test cases, and bug reports.
@@ -14,6 +16,7 @@ Marketing Experience: Previous background in Marketing, with knowledge of tools 
 Technical Tools: Proficient in Jira, Confluence (including Jira Automation), SQL, and relational databases.
 
 🌍 **Where I've Worked**:
+
 QA Engineer at Priva (2024 - Present)
 Hybrid, Netherlands
 
